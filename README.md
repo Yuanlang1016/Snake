@@ -1,4 +1,4 @@
-# Java贪吃蛇 || Java Greedy Snake
+# Java贪吃蛇 || Greedy Snake Java Edition
 
 ![搜狗截图20210824124720 ](https://user-images.githubusercontent.com/81631461/130737593-882b571e-ed25-4f1e-9553-8e3d3e3a369a.png)
 
